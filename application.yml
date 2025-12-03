@@ -10,5 +10,5 @@ spring:
     hibernate:
       ddl-auto: create
     show-sql: true
-    msg: hello this is my db configuration file
+msg: hello this is my db configuration file
     
