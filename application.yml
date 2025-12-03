@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: SpringBootRestfulsaveUpdateOperation
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: Ratan@_#1425
+    url: jdbc:mysql://127.0.0.1:3306/springdatajpa
+    username: Practice
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    
